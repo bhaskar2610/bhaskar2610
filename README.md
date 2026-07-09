@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaskar2610
 - 👀 I’m interested in Javascript, Python and Go.
-- 🌱 I’m currently working as Full Stack Developer in CCTech. 
+- 🌱 I’m currently working as Full Stack Developer in Photon. 
 - 📫 How to reach me .
   Email:bhaskarchauhan2610@gmail.com
   Mob:7319720676
